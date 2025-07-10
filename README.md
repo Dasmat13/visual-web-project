@@ -96,10 +96,12 @@ visual-web-project/
 cd visual-web-project</code></pre>
 
     <h3>2️⃣ Build and Push Docker Image</h3>
+
     <pre><code>docker build -t dasmat13/kube-animated-site .
 docker push dasmat13/kube-animated-site</code></pre>
 
     <h3>3️⃣ Start Minikube and Apply Manifests</h3>
+
     <pre><code>minikube start
 
 kubectl apply -f namespace.yaml
@@ -107,6 +109,7 @@ kubectl apply -f deployment.yaml
 kubectl apply -f service.yaml</code></pre>
 
     <h3>4️⃣ Access the Website</h3>
+    
     <pre><code>minikube service hello-service -n hello-kubernetes</code></pre>
     <p>Or manually:</p>
     <pre><code>kubectl get svc -n hello-kubernetes</code></pre>
