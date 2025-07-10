@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Kubernetes Animated Website - Project Info</title>
+<!--   <title>Kubernetes Animated Website - Project Info</title> -->
 <!--   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
