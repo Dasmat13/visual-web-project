@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Kubernetes Animated Website - Project Info</title>
-  <style>
+<!--   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
       background: #f8f9fa;
@@ -45,7 +45,7 @@
     a {
       color: #0077b6;
     }
-  </style>
+  </style> -->
 </head>
 <body>
 
