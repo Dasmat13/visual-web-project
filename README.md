@@ -94,8 +94,9 @@ http://localhost:<NodePort>
 
 ## 📸 Screenshot or Preview
 
-_No screenshot added by choice. Website features animated CSS gradients and centered content._
+Here’s what the website looks like:
 
+![Animated Website Preview](preview.png)
 ---
 
 ## 📜 License
